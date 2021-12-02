@@ -1,1 +1,1 @@
-# A work in progress engine to render basic shapes using LWJGL
+Exploring the LWJGL by creatng a small engine to render basic graphics (WIP)
